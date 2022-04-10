@@ -186,7 +186,7 @@ var
 ```
 Screenshot dan Keterangan
 
-![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/soal4.jpg)
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/Soal4.jpg)
 
 
 # Soal 5
@@ -230,7 +230,14 @@ var
 ```
 Screenshot dan Keterangan
 
-![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/soal5.jpg)
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/Soal5.jpg)
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/10.jpg)
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/100.jpg)
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/1000.jpg)
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/10000.jpg)
+
+
+
 
 
 # Soal 6
@@ -284,8 +291,8 @@ var
 ```
 Screenshot dan Keterangan
 
-![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/soal6.jpg)
-![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/soal6bc.jpg)
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/Soal%206.jpg)
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/Soal6bc.jpg)
 
 
 
