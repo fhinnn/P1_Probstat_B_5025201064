@@ -2,7 +2,7 @@ n = 100
 mean = 50
 sd = 8
 
-# Poin A
+#A
 set.seed(1)
 data <- rnorm(n, mean, sd)
 data
@@ -21,10 +21,10 @@ peluang1
 peluang <- peluang2 - peluang1
 plot(data)
 
-# Poin B
+#B
 breaks = 50
 hist(data, breaks, main = "5025201064_Dhafin Almas Nusantara_Probstat_B_DNHistogram")
 
-# Poin C
+#C
 var = (sd(data)) ^ 2
 var
