@@ -10,9 +10,6 @@ n = 356
 hist(rpois(n, lamda), main = "Grafik Histogram Poisson")
 
 #Poin C
-# kahjdavsdaasdas
-# asdjahbsdajs
-# asdahvsd
 
 # Poin D
 mean = var = lamda

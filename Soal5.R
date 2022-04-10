@@ -13,7 +13,11 @@ hist(rexp(1000, rate = lamda), main = "Grafik Histogram Exponetial dengan 1000 b
 hist(rexp(10000, rate = lamda), main = "Grafik Histogram Exponetial dengan 10000 bil.random")
 
 #C
-n=100
-mean=
+n = 100
+set.seed(1)
+mean = mean(rexp(n, lamda))
+var = (sd(rexp(n, lamda))) ^ 2
+mean
+var
 
 
