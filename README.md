@@ -37,6 +37,8 @@ mean
 
 Bandingkan Hasil poin a dan b , apa kesimpulan yang bisa didapatkan?
 
+Dari poin A dan B dapat disimpulkan bahwa hasil pada keduanya memiliki hasil yang berbeda karena pada poin A nilai nya konstan dan memeiliki nilai sampel yang tetap sedangkan pada poin B terdapat variabel acak atau variabel random sehingga hasilnya akan berbeda terus menerus karena tergantung bagaimana variabel yang didapat saat dilakukan pengambilan secaara acak dari fungsinya 
+
 - Poin D
 
 Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama
@@ -57,7 +59,8 @@ var
 
 Screenshot dan Keterangan
 
-![](https://drive.google.com/file/d/1xxoFTl445LRtiJGn7pY0UtAGXVQBY344/view?usp=sharing)
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/soal1.jpg)
+
 
 
 
@@ -93,6 +96,10 @@ mean
 var=n * p * (1-p) #nilai variansi
 var
 ```
+Screenshot dan Keterangan
+
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/soal2.jpg)
+
 
 # Soal 3
 Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari. 
@@ -124,8 +131,10 @@ hist(rpois(n, lamda), main = "Grafik Histogram Poisson")
 - Poin C
 
 dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan
-```
-```
+
+Poin A dan B hampir sama hasilnya dapat dilihat dari tabelnya , karena nilai dari poin A sendiri didapat dari range nilai poin B. Range dari B dapat dilihat pada plot yang telah terbentuk.
+
+Oleh karena itu, dalam estimasi selama 365 hari akan memberikan nilai hasil yang hampir sama dengan estimasi jumlah bayi yang akan dilahirkan di waktu selanjutnya.
 
 - Poin D
 
@@ -136,6 +145,10 @@ mean = var = lamda
 mean
 var
 ```
+Screenshot dan Keterangan
+
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/soal3.jpg)
+
 # Soal 4
 Diketahui nilai x = 2 dan v = 10. Tentukan:
 ```
@@ -171,6 +184,10 @@ mean
 var = 2*v #nilai variansi
 var
 ```
+Screenshot dan Keterangan
+
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/soal4.jpg)
+
 
 # Soal 5
 Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
@@ -211,6 +228,10 @@ var = (sd(rexp(n, lamda))) ^ 2
 mean
 var
 ```
+Screenshot dan Keterangan
+
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/soal5.jpg)
+
 
 # Soal 6
 Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan
@@ -261,6 +282,11 @@ Nilai Varian (σ²) dari hasil generate random nilai Distribusi Normal.
 var = (sd(data)) ^ 2
 var
 ```
+Screenshot dan Keterangan
+
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/soal6.jpg)
+![alt text](https://github.com/fhinnn/P1_Probstat_B_5025201064/blob/main/soal6bc.jpg)
+
 
 
 
